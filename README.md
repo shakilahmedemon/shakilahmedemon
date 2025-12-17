@@ -6,7 +6,6 @@
 I am passionate about building **reliable, intelligent, and research-driven software systems**.  
 My GitHub showcases academic projects, experiments, and applied research work related to modern software and AI technologies.
 
----
 
 ##  Research & Technical Interests
 - Software Engineering & System Design  
@@ -15,7 +14,6 @@ My GitHub showcases academic projects, experiments, and applied research work re
 - Deep Learning & Large Language Models  
 - Data-driven & Predictive Systems  
 
----
 
 ##  Technical Skills
 - **Languages:** Python, Java, JavaScript, SQL  
@@ -23,13 +21,11 @@ My GitHub showcases academic projects, experiments, and applied research work re
 - **ML/AI:** Scikit-learn, TensorFlow, PyTorch (learning)  
 - **Other:** Data Analysis, Model Evaluation, Academic Writing  
 
----
 
 ##  GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShakilAhmed&show_icons=true&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShakilAhmed&layout=compact)
 
----
 
 ##  Current Focus
 - Developing **machine learning dashboards**
@@ -37,7 +33,6 @@ My GitHub showcases academic projects, experiments, and applied research work re
 - Learning **secure and scalable software design**
 - Exploring **LLMs for real-world applications**
 
----
 
 ##  Contact
 - GitHub: https://github.com/ShakilAhmed
