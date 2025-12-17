@@ -1,4 +1,4 @@
-# Hi, This is SHAKIL 👋
+# Hi, This is SHAKIL
 
  **Software Engineering Student**  
  **Research Interests:** Software Engineering, Software Security, Artificial Intelligence, Machine Learning, Deep Learning, and Large Language Models (LLMs)
