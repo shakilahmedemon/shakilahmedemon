@@ -22,11 +22,6 @@ My GitHub showcases academic projects, experiments, and applied research work re
 - **Other:** Data Analysis, Model Evaluation, Academic Writing  
 
 
-##  GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShakilAhmed&show_icons=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShakilAhmed&layout=compact)
-
-
 ##  Current Focus
 - Developing **machine learning dashboards**
 - Working on **student risk prediction & early warning systems**
@@ -35,8 +30,8 @@ My GitHub showcases academic projects, experiments, and applied research work re
 
 
 ##  Contact
-- GitHub: https://github.com/ShakilAhmed
 - Email: bsbshakil11@gmail.com
+- wechat: shakil2_0
 - LinkedIn: https://www.linkedin.com/in/shakil20
 - Instagram: prof.shakil
 
