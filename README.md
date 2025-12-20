@@ -32,7 +32,7 @@ My GitHub showcases academic projects, experiments, and applied research work re
 ##  Contact
 - Email: bsbshakil11@gmail.com
 - wechat: shakil2_0
-- LinkedIn: https://www.linkedin.com/in/shakil20
+- LinkedIn: www.linkedin.com/in/shakil20
 - Instagram: prof.shakil
 
 *Always learning, building, and improving.*
